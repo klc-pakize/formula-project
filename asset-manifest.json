@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formula-project/static/css/main.974f6a6c.css",
+    "main.js": "/formula-project/static/js/main.cce4324b.js",
+    "static/media/F1_22_game_logo.svg.png": "/formula-project/static/media/F1_22_game_logo.svg.85b2453ea1430929402e.png",
+    "static/media/mc.webp": "/formula-project/static/media/mc.abe5f76877db517b9896.webp",
+    "static/media/kv1.webp": "/formula-project/static/media/kv1.db7ab7152d5330b4f58a.webp",
+    "static/media/sv.webp": "/formula-project/static/media/sv.25be84842ad208b9144d.webp",
+    "static/media/mv.webp": "/formula-project/static/media/mv.5f26de762646b85d0317.webp",
+    "static/media/vb.webp": "/formula-project/static/media/vb.22997d42dbf0aa8c97d0.webp",
+    "static/media/lh.webp": "/formula-project/static/media/lh.bb34b8fea2ba8888f2f6.webp",
+    "static/media/pg1.webp": "/formula-project/static/media/pg1.8cf2b84d0b4dce147c35.webp",
+    "static/media/yt.webp": "/formula-project/static/media/yt.2bd714b7c7c50af80fa6.webp",
+    "index.html": "/formula-project/index.html",
+    "main.974f6a6c.css.map": "/formula-project/static/css/main.974f6a6c.css.map",
+    "main.cce4324b.js.map": "/formula-project/static/js/main.cce4324b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974f6a6c.css",
+    "static/js/main.cce4324b.js"
+  ]
+}
